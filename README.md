@@ -57,7 +57,13 @@ Grep
 Grep-komennon avulla voidaan etsiä tietoa tiedostoista. Loin tätä tehtävää varten esimerkkitiedoston testi1.txt kansioon testi. Etsin tästä tiedostosta tietoa grep-komennolla. 
 
 Grep komennolla voidaan etsiä numeroita tekstitiedostosta. Tuloksena saadaan kaikki rivit, jossa haluttu numero esiintyy. Alla kuva käyttämästäni komennosta ja tuloksesta. 
+<img width="635" alt="Screenshot 2023-02-01 at 3 29 06" src="https://user-images.githubusercontent.com/122889266/215922701-0814b4da-f7e1-48f3-a9d0-b787d459a9c3.png">
 
 Grep komennolla voi myös etsiä sanoja. Etsin tiedostosta testi1.txt sanaa sää ja tulokseksi sain kaikki rivit, jotka sisältävät sanan sää. Alla tarkemmin käyttämäni komento ja tulostus. 
 
+<img width="634" alt="Screenshot 2023-02-01 at 3 28 57" src="https://user-images.githubusercontent.com/122889266/215922718-939e8b70-156b-4b03-baaf-e1bcde7080b4.png">
+
 Etsin vielä yhtä tiettyä kirjainta (l) tekstitiedostosta. Alla kuvassa on esitetty käyttämäni komento ja tulostus. Tulostus sisältää kaikki rivit, joissa esiintyy kirjain l. 
+
+
+<img width="632" alt="Screenshot 2023-02-01 at 3 28 48" src="https://user-images.githubusercontent.com/122889266/215922740-ebdabc76-37f8-46e8-9811-604dddcc6337.png">
