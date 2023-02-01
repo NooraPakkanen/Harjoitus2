@@ -71,6 +71,9 @@ Var/log
 Sisältää muuttuvia tiedostoja kuten esimerkiksi lokitiedostoja.
 
 
+<img width="759" alt="Screenshot 2023-02-01 at 3 43 58" src="https://user-images.githubusercontent.com/122889266/215925544-3175dea4-3e53-43e1-a623-8352a13e9048.png">
+
+
 
 Grep
 
