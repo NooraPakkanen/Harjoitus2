@@ -62,6 +62,8 @@ Etc-kansio sisältää järjestelmän asetustiedostoja. Kaikki kansion tiedostot
 Media
 
  Siirrettävän median tiedostoja
+ 
+ <img width="360" alt="Screenshot 2023-02-01 at 3 42 41" src="https://user-images.githubusercontent.com/122889266/215925460-d714310b-66a0-4960-b1e7-91e639be4d56.png">
 
 
 Var/log 
