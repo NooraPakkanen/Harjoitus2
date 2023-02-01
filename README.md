@@ -1,5 +1,12 @@
 # Harjoitus2
 
+Tiivistelmä
+
+Command Line Basics Revisited
+
+Tekstissä esitetään useita terminaalin käytön peruskomentoja. Komennolla pwd saadaan selville, että missä kansiossa ollaan. Ls komennolla voidaan listata/näyttää kansioita tai mitä tiedostoja kansiossa sijaitsee. Cd komennolla voidaan siirtyä esimerkiksi tiettyyn kansioon. Taaksepäin päästään kun laitetaan kaksi pistettä cd perään. Uusi kansio voidaan luoda mkdir komennolla. Rm komennolla voidaan poistaa lopullisesti tietty kansio tai tiedosto. 
+
+
 Micron asennus
 
 Micro asennettiin komennolla sudo apt-get -y install micro. Asennus onnistui. 
