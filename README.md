@@ -22,9 +22,10 @@ Apt
 
 Asensin ohjelmat espeak ja wordgrinder. En tunne komentoriviohjelmia, joten valitsin googlailemalla muutaman ensimmäisen silmiini osuneen. Sain ainoastaan kaksi asennettua. Yritin myös muita, mutta ilmeisesti niitä ei pysty ainakaan tuota kautta asentamaan tai sitten ohjelmat olivat esimerkiksi vääriä tai vanhentuneita.
 
-<img width="621" alt="Screenshot 2023-02-01 at 2 12 20" src="https://user-images.githubusercontent.com/122889266/215922171-8d58fac7-efaf-451d-b8ce-d4790ae1
+
 <img width="764" alt="Screenshot 2023-02-01 at 2 00 53" src="https://user-images.githubusercontent.com/122889266/215922204-8db6d230-a07a-495c-9a0f-149b68fe0787.png">
 a7b0.png">
+
 <img width="745" alt="Screenshot 2023-02-01 at 1 58 43" src="https://user-images.githubusercontent.com/122889266/215922217-546670e0-270c-439c-bf14-0fd7b9980116.png">
 
 FHS
