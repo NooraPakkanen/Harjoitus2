@@ -40,6 +40,8 @@ Root
 
 Juurihakemisto.  Linux/Unix -järjestelmissä tiedostohierarkian ylimpänä. Juurihakemistoa merkitään kauttaviivalla (/). 
 
+<img width="242" alt="Screenshot 2023-02-01 at 3 54 56" src="https://user-images.githubusercontent.com/122889266/215925973-fd2d0e3f-fa04-4480-a252-ff8143dd40be.png">
+
 
 
 Home
