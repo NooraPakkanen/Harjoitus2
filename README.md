@@ -4,6 +4,8 @@ Micron asennus
 
 Micro asennettiin komennolla sudo apt-get -y install micro. Asennus onnistui. 
 
+<img width="813" alt="kuva" src="https://user-images.githubusercontent.com/122889266/215921946-935d7296-209c-4f18-bec7-6b5b7442812b.png">
+
 
 
 
