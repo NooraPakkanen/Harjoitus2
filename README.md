@@ -28,6 +28,8 @@ Asensin ohjelmat espeak ja wordgrinder. En tunne komentoriviohjelmia, joten vali
 
 <img width="745" alt="Screenshot 2023-02-01 at 1 58 43" src="https://user-images.githubusercontent.com/122889266/215922217-546670e0-270c-439c-bf14-0fd7b9980116.png">
 
+<img width="621" alt="Screenshot 2023-02-01 at 2 12 20" src="https://user-images.githubusercontent.com/122889266/215925740-e679e221-b0d1-4ed6-9880-4337dce43eea.png">
+
 FHS
 
 
