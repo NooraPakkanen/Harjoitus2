@@ -44,6 +44,8 @@ Home
 
 Home hakemistosta löytyy kaikkien käyttäjien kotihakemistot
 
+<img width="382" alt="Screenshot 2023-02-01 at 3 39 08" src="https://user-images.githubusercontent.com/122889266/215925305-1e70c7c2-fd76-429a-be87-071550eedff1.png">
+
 
 
 Home/noora
