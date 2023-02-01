@@ -34,11 +34,6 @@ FHS
 
 
 
-
-<img width="759" alt="Screenshot 2023-02-01 at 3 43 58" src="https://user-images.githubusercontent.com/122889266/215924667-866cc13c-4b0c-4c15-89e2-83a5d20cbc02.png">
-usercontent.com/122889266/215924660-42e3abc3-a8f7-4555-8551-38dc94f7c1a7.png">
-234b.png">
-
 Root
 
 Juurihakemisto.  Linux/Unix -järjestelmissä tiedostohierarkian ylimpänä. Juurihakemistoa merkitään kauttaviivalla (/). 
@@ -49,27 +44,25 @@ Home
 
 Home hakemistosta löytyy kaikkien käyttäjien kotihakemistot
 
-<img width="382" alt="Screenshot 2023-02-01 at 3 39 08" src="https://user-images.githubusercontent.com/122889266/215924643-0ebcef95-2386-4a8b-ad41-f00496f512a1.png">
+
 
 Home/tero
 
 Käyttäjän Tero kotihakemistossa on käyttäjän tallentamat tiedostot
 
-<img width="787" alt="Screenshot 2023-02-01 at 3 40 06" src="https://user-images.githubusercontent.com/122889266/215924652-3ef39604-88b6-4f36-9a93-b5318d72
 
 Etc-kansio sisältää järjestelmän asetustiedostoja. Kaikki kansion tiedostot ovat tekstitiedostoja.
 
 Media
 
  Siirrettävän median tiedostoja
- 
- <img width="360" alt="Screenshot 2023-02-01 at 3 42 41" src="https://user-images.github
+
 
 Var/log 
 
 Sisältää muuttuvia tiedostoja kuten esimerkiksi lokitiedostoja.
 
-<img width="710" alt="Screenshot 2023-02-01 at 3 38 22" src="https://user-images.githubusercontent.com/122889266/215924630-84ac6bca-7eb5-4338-be31-0d56c74968d2.png">
+
 
 Grep
 
