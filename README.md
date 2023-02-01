@@ -24,7 +24,7 @@ Asensin ohjelmat espeak ja wordgrinder. En tunne komentoriviohjelmia, joten vali
 
 
 <img width="764" alt="Screenshot 2023-02-01 at 2 00 53" src="https://user-images.githubusercontent.com/122889266/215922204-8db6d230-a07a-495c-9a0f-149b68fe0787.png">
-a7b0.png">
+
 
 <img width="745" alt="Screenshot 2023-02-01 at 1 58 43" src="https://user-images.githubusercontent.com/122889266/215922217-546670e0-270c-439c-bf14-0fd7b9980116.png">
 
