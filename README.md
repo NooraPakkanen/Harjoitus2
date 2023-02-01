@@ -57,6 +57,8 @@ Käyttäjän Noora kotihakemistossa on käyttäjän tallentamat tiedostot
 
 Etc-kansio sisältää järjestelmän asetustiedostoja. Kaikki kansion tiedostot ovat tekstitiedostoja.
 
+<img width="787" alt="Screenshot 2023-02-01 at 3 40 06" src="https://user-images.githubusercontent.com/122889266/215925376-e991de5e-6f2c-4799-aac4-5c2a4bb0a048.png">
+
 Media
 
  Siirrettävän median tiedostoja
