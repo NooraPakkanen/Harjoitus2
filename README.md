@@ -46,9 +46,11 @@ Home hakemistosta löytyy kaikkien käyttäjien kotihakemistot
 
 
 
-Home/tero
+Home/noora
 
-Käyttäjän Tero kotihakemistossa on käyttäjän tallentamat tiedostot
+Käyttäjän Noora kotihakemistossa on käyttäjän tallentamat tiedostot
+
+<img width="710" alt="Screenshot 2023-02-01 at 3 38 22" src="https://user-images.githubusercontent.com/122889266/215925195-0d505639-857e-48ae-a31a-047a4a2d0cc7.png">
 
 
 Etc-kansio sisältää järjestelmän asetustiedostoja. Kaikki kansion tiedostot ovat tekstitiedostoja.
