@@ -106,3 +106,9 @@ Etsin vielä yhtä tiettyä kirjainta (l) tekstitiedostosta. Alla kuvassa on esi
 
 
 
+Tehtävä tehty Linux-palvelimet kurssin ohjeiden mukaan:
+
+h2 Komentaja Pingviini. Karvinen, Tero. Linux palvelimet -kurssi 2023. Luettavissa: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h2-komentaja-pingviini. Luettu 22.1.2023
+
+
+
